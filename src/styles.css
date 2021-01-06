@@ -5,11 +5,5 @@
 
 li {
   display: inline;
-  margin: 10px;
-}
-
-.summaryBorder {
-  border: 2px solid black;
-  height: 50vh;
-  margin: 0 20vw;
+  margin: 0 25px;
 }
